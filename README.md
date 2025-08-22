@@ -18,12 +18,6 @@
 
 ---
 
-### 📊 إحصائيات
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)  
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YOUR-USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)  
-
----
-
 ### 📬 تواصل معي
 [![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@Web_dever)
 
