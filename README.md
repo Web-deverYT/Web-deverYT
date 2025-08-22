@@ -14,17 +14,7 @@
 ### 🚀 المهارات
 - 🖌️ HTML / CSS / JavaScript  
 - 🎨 Responsive Design  
-- ⚡ Git & GitHub  
-
----
-
-<details>
-<summary><b>🎶 الكود دائماً مع الموسيقى</b></summary>  
-<br>  
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com)  
-
-</details>
+- ⚡ GitHub  
 
 ---
 
@@ -35,8 +25,7 @@
 ---
 
 ### 📬 تواصل معي
-[![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@YOUR-CHANNEL)  
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/YOUR-TELEGRAM)  
+[![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@Web_dever)
 
 </div></div>
 
