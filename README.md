@@ -5,20 +5,19 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>  
 <br><br>
 
-# 👋 أهلاً بك في بروفايلي  
-💻 أنا **Front-End Web Developer** (HTML, CSS, JS)  
-🎥 صانع محتوى على **YouTube** أشارك فيه شروحات و أفكار برمجية  
-
+# 👋 Welcome to my profile
+### 💻 I'm a **Front-End Web Developer** (HTML, CSS, JS)
+### 🎥 A content creator on **YouTube** where I share programming tutorials and ideas
 ---
 
-### 🚀 المهارات
+### 🚀 Skills
 - 🖌️ HTML / CSS / JavaScript  
 - 🎨 Responsive Design  
 - ⚡ GitHub  
 
 ---
 
-### 📬 تواصل معي
+### 📬 Contact me
 [![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@Web_dever)
 
 </div></div>
